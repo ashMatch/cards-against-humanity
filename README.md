@@ -2,4 +2,4 @@
 
 ## Um jogo divertido de interação
 
-![preview](./assets/img/preview.png)
+![preview](assets/img/preview.png)
